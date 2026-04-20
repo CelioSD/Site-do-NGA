@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+.logo img{
+    width: 100%;
+    height: 50px;
+
+}
+
+header nav{
+    background:transparent;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+}
+
+header div:first-child{
+    margin-left: 50px;
+}
