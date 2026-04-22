@@ -1,0 +1,154 @@
+    <main>
+
+        <section id="carouselExample" class="carousel slide">
+    
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="IMAGENS/Tatuagens.jpg" class="d-block w-100 imgThumb img-fluid" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="IMAGENS/Filho das ruas II.jpg" class="d-block w-100 imgThumb img-fluid" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="IMAGENS/Atitude.jpg" class="d-block w-100 imgThumb img-fluid" alt="...">
+                </div>
+            </div>
+    
+            <div class="carousel-caption custom-caption d-flex flex-column justify-content-center" >
+                <h1>NGA</h1>
+                <p>Rapper angolano, conhecido por suas letras que abordam temas sociais e culturais. Ele é um dos artistas mais influentes da cena musical angolana, com uma carreira que inclui vários álbuns de sucesso e colaborações com outros artistas renomados.</p>
+    
+                <!-- <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7AJ7Lv74oh3t9qw1A0x2s7?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> -->
+    
+                <div class="d-flex flex-column gap-2 btn-sons w-100">
+       
+                    <a class="btn btn-show btn-primary " role="button" href="#"  >Contactar para show</a>
+         
+                </div>
+            </div>
+    
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </section>
+    
+        <section class="container my-5">
+            <div class="row align-items-center sobre-NGA">
+                  <div class="col-md-6 p-5 ">
+                    <h1>Edson da Silva ou NGA</h1>
+                    <p>Edson da Silva, mais conhecido por NGA, mais do que um rapper é uma voz marcante que representa força, disciplina e superação. Reconhecido pela sua autenticidade e pela forma como inspira através da música, construiu um legado que vai além dos palcos, refletindo valores como família, lealdade, trabalho e visão. Como membro da Força Suprema, tornou-se uma referência no rap lusófono e um símbolo de determinação para milhares de fãs.</p>
+                </div>
+
+            <div class="text-center img-ES col-md-6 ">
+                <img src="IMAGENS/TCD.webp" class="rounded img-fluid" alt="...">
+            </div>
+
+            </div>
+        </section>
+
+        <section class="container text-center my-5 py-5 bg-dark text-light rounded p-5">
+            <h2 class="pb-5"> Mais do que músico</h2>
+            <div class="row faces">
+                <div class="col-md-4 d-flex ">
+                    <div class="rounded border p-3 w-100 faces-NGA btn btn-outline-light">
+                        <i class="fa-solid fa-graduation-cap"></i>
+                        <h3>Mentor</h3>
+                        <p>Mentor para muitios jovens artistas e não só, compartilhando sua experiência de vida e conselhos  em forma de rima.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 d-flex ">
+                    <div class="rounded border p-3 w-100 faces-NGA btn btn-outline-light">
+                        <i class="fa-solid fa-lightbulb"></i>
+                        <h3>Hustler & Visionário</h3>
+                        <p>Desde muito jovem, sempre soube onde queria chegar e trabalhou com foco para transformar ambição em realidade.</p>
+                    </div>
+                </div>
+
+                <div class="col-md-4 d-flex  ">
+                    <div class="rounded border p-3 w-100 faces-NGA btn btn-outline-light">
+                        <i class="fa-solid fa-landmark"></i>
+                        <h3>Raiz</h3>
+                        <p>Humildade, família e valores que não se negociam. Firme na base, forte quando é preciso. Apesar do sucesso, NGA nunca perdeu suas raízes e continua a ser um representante autêntico da cultura angolana e do rap.</p>
+                    </div>
+
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <div class="container texte-center bg-dark my-5 text-light rounded p-5">
+                <h2>Últimos Lançamentos</h2>
+                <hr>
+                <div class="row">
+                    <div class="mt-5">
+                        <h5>Fios de Prata</h5>
+                        <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/7xE91tENULmk7FgU5DRHdI?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                    </div>
+                    <hr>
+                    <div >
+                        <h5>Conto de fadas</h5>
+                        <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/1K2PtJYkvh12hU6WNGxt82?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                    </div>
+                    <hr>
+                    <div>
+                        <h2>Camisa Branca</h2>
+                        <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6zxmzRq8fjvuDHedR10f8W?utm_source=generator" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+                    </div>
+                </div>
+                <div class="d-flex">
+
+                    <a class="btn btn btn-outline-light  ms-auto" href="https://open.spotify.com/intl-pt/artist/3ONLrDrnWMglipr2yWeg7s" role="button" target="_blank">Ouvir toda a playlist</a>
+                </div>
+            </div>
+        </section>
+        <section class=" text-center py-5 frase bg-secondary-subtle">
+            <h3 class="fst-italic">"Trabalhei no inferno para comprar um lugar no céu"</h3>
+        </section>
+
+        <section class="container text-center my-5 py-5 bg-dark text-light rounded p-5">
+            <h3 >Explore mais</h3>
+            <div class="my-3">
+                <a class="btn btn-outline-light" href="#">Albuns</a>
+                <a class="btn btn-outline-light" href="#">Tour</a>
+            </div>
+        </section>
+
+
+    </main>
+    <footer class=" bg-dark text-light mt-5  p-3">
+        <section class=" text-center my-5">
+            <div>
+                <h3 class="m-4">Siga-nos nas redes sociais</h3>
+                <div class="d-flex justify-content-center gap-2">
+                    <a class="btn btn-primary facebook" href="facebook.com/pages/Official-NGA/160781133989067" target="_blank">  
+                        <i class="fa-brands fa-facebook"></i> 
+                        Facebook</a>
+                     
+                    <a class="btn btn-primary instagram" href="instagram.com/nga_king " target="_blank">
+                        <i class="fa-brands fa-instagram"></i>
+                        Instagram</a>
+
+                    <a class="btn btn-primary youtube" href="www.youtube.com/@NGA_KING" target="_blank">
+                        <i class="fa-brands fa-youtube"></i>
+                        Youtube</a>
+
+                    <a class="btn btn-primary spotify" href="open.spotify.com/artist/3ONLrDrnWMglipr2yWeg7s" target="_blank">
+                        <i class="fa-brands fa-spotify"></i>
+                        Spotify</a>
+                    
+                </div>
+                
+            </div>
+        </section>
+
+
+        <div class="container text-center py-3">
+            <p>&copy; 2024 NGA. Todos os direitos reservados.</p>
+        </div>
+    </footer>
